@@ -1,0 +1,29 @@
+
+# Intro
+
+Greetings! This is Xingru"Iris"Long, going by she/her. 
+
+I am currently majoring my **Master of Science in Financial Engineering** at the **University of Southern California(USC)**. 
+My work sits at the broad area of **Financial and Engineering**, with specific interests in **Financial Modeling, Quantitative Finance, Data Analyst, Management**.. 
+My goal is to apply mathematical and computational methods to solve complex problems in finance.
+
+Prior to this, I finished my undergraduate study at the **School of University of California, Berkeley**, from which I receive my **Bachelor's degree in Economics**.
+
+For leisure, I enjoy playing video games; I also love basketball, cycling, soccer, and badminton. 
+
+# What Is the Intersection of HCI and AI?
+
+**In One Word:** Optimization.
+
+**In One Sentence:** The goal of financial engineering is to optimize financial decision-making processes through the application of mathematical, statistical, and computational methods.
+
+**In One Paragraph:** The field of financial engineering lies at the intersection of finance, mathematics, statistics, and computer science, aiming to optimize decision-making processes in finance. It involves the creation and implementation of mathematical models to analyze, predict, and enhance various aspects of financial systems. This includes tasks like risk management, derivatives pricing, portfolio optimization, financial modeling, algorithmic trading, financial innovation, and regulatory compliance. By integrating these different areas, financial engineering allows for more accurate prediction of market movements, effective risk mitigation, and the development of innovative financial products and strategies. This optimization helps corporations, financial institutions, and investors to maximize returns while minimizing risk, improving the overall efficiency and effectiveness of the financial markets.
+
+# Hobbyist Favorites
+
+* Food: Szechuan and Thai cuisine
+* Brand: Apple
+* Artist: Claude Monet
+* Composer: Antonín Dvořák
+* Soccer Player: Lionel Messi
+* Basketball Player: Stephen Curry
