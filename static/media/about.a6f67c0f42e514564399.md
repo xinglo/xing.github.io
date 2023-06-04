@@ -4,7 +4,7 @@
 Greetings! This is Xingru"Iris"Long, going by she/her. 
 
 I am currently majoring my **MS in Financial Engineering** at the **University of Southern California（USC）**. 
-My work sits at the broad area of **AI and Finance**, with specific interests in **Financial Modeling, **, **Quantitative Finance,**, and **Data Analyst, Management**. 
+My work sits at the broad area of **AI** and **Finance**, with specific interests in **Financial Modeling**, **Quantitative Finance**, **Data Analyst**,**Management**. 
 My goal is to apply mathematical and computational methods to solve complex problems in finance.
 
 Prior to this, I finished my undergraduate study at the **School of University of California, Berkeley**, from which I receive my **BS degree in Economics**.
