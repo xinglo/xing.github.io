@@ -1,4 +1,4 @@
-# xing | XINGRU LONG's Personal Page
+# XINGRU LONG's Personal Page
 
 ## Deployment
 
