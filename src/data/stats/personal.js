@@ -56,7 +56,7 @@ const data = [
   },
   {
     key: 'practice',
-    label: 'Practice in Financial Engineering',
+    label: 'Practice in Fin Eng',
     value: <Practice />,
   },
 ];
