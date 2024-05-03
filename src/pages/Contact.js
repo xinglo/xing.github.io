@@ -8,18 +8,20 @@ import ContactIcons from '../components/Contact/ContactIcons';
 const WeChatPart = () => (
   <div className="email-at">
     <p>
-      Feel free to get in touch! My WeChat ID: <br />
+      By the way, I use <b>WeChat</b>. <br />
+      Send me an email if you prefer to use instant messaging :)
     </p>
-    <b>
-      im_flowey
-    </b>
   </div>
 );
 
 const EmailPart = () => (
   <div className="email-at">
-    <p>Or, you can email me at: </p>
-    <EmailLink />
+    <p> <b>Feel free to get in touch!</b></p>
+    <p style={{ marginTop: '4%' }}>You can email me at: </p>
+    <EmailLink mail="Xingru [at] Los Angeles [dot] net" />
+    <p style={{ marginTop: '4%' }}>If it is for academic or professional purposes, preferably: </p>
+    <EmailLink mail="Xingru [at] Los Angeles [dot] net" />
+
   </div>
 );
 
