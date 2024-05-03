@@ -20,11 +20,11 @@ const data = [
     label: 'Github',
     icon: faGithub,
   },
-  // {
-  //  link: 'https://www.instagram.com/xing._.l/',
-  //  label: 'Instagram',
-  //  icon: faInstagram,
-  // },
+  {
+    link: 'https://www.instagram.com/xing._.l/',
+    label: 'Instagram',
+    icon: faInstagram,
+  },
   {
     link: 'https://www.linkedin.com/in/xingru-iris-long-229424211/',
     label: 'LinkedIn',
