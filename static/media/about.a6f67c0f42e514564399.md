@@ -3,13 +3,13 @@
 
 Greetings! This is Xingru"Iris"Long, going by she/her👾. 
 
-I am currently majoring my **MS in Fin Eng** at the **University of Southern California（USC）**🗡. 
+I am currently majoring **MS in Financial Engineering** at the **University of Southern California（USC）**🗡. 
 My work sits at the broad area of **AI** and **Financial Analyst** Industry. 
 <p></p>
 *Career = mathematical and computational methods to solve complex problems in finance.
 <p></p>
 *Prior to this, 
-*I finished my undergraduate study at the **UCB**, from which I receive my **BS degree in Economics**.
+I finished my undergraduate study at the **UC Berkeley**, from which I receive my **BS degree in Economics**.
 <p></p>
 *For leisure, I enjoy playing video games; basketball, cycling, soccer, and badminton. 
 
