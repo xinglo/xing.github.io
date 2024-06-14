@@ -3,14 +3,15 @@
 
 Greetings! This is Xingru"Iris"Long, going by she/her👾. 
 
-I am currently majoring my **MS in Fin Eng** at the **University of Southern California（USC）**. 
+I am currently majoring my **MS in Fin Eng** at the **University of Southern California（USC）**🗡. 
 My work sits at the broad area of **AI** and **Financial Analyst** Industry. 
-Career = mathematical and computational methods to solve complex problems in finance.
-
-Prior to this, 
-I finished my undergraduate study at the **UCB**, from which I receive my **BS degree in Economics**.
-
-For leisure, I enjoy playing video games; basketball, cycling, soccer, and badminton. 
+<p></p>
+*Career = mathematical and computational methods to solve complex problems in finance.
+<p></p>
+*Prior to this, 
+*I finished my undergraduate study at the **UCB**, from which I receive my **BS degree in Economics**.
+<p></p>
+*For leisure, I enjoy playing video games; basketball, cycling, soccer, and badminton. 
 
 # What is the Realm of Financial Engineering
 
@@ -22,9 +23,9 @@ For leisure, I enjoy playing video games; basketball, cycling, soccer, and badmi
 
 # Hobbyist Favorites
 
-* Food: Szechuan and Thai cuisine
+* Food: Szechuan and Thai cuisine🍲
 * Brand: Apple🍎
-* Artist: Claude Monet
-* Composer: Antonín Dvořák
-* Soccer Player: Lionel Messi
-* Basketball Player: Stephen Curry
+* Artist: Claude Monet🎻
+* Composer: Antonín Dvořák🎸
+* Soccer Player: Lionel Messi⚽️
+* Basketball Player: Stephen Curry🏀
